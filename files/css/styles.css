@@ -1,0 +1,25 @@
+body {
+    background-color: #00ffe1;
+}
+p{
+    background-color: #0037ff;
+    font-size: 20px;
+    font-family: "Comic Sans MS";
+}
+
+.claas1{
+    background-color: #0037ff;
+    font-size: 15px;
+    font-family:"Arial Black";
+    color: burlywood;
+}
+
+
+.btn{
+    background-color: darkgreen;
+    font-size: 25px;
+}
+.btn:hover{
+    background-color: #080064;
+    font-size: 35px;
+}
